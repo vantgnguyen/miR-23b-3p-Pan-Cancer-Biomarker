@@ -33,4 +33,4 @@ miR-23b-3p-Pan-Cancer-Biomarker/
 - *hsa-miR-23b-3p* is a promising candidate for minimally invasive screening, but prospective validation is needed before clinical use.
 
 ## Authors
-Thi Tuong Van Nguyen
+Thi Tuong Van Nguyen, Don P.H Tran
